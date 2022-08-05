@@ -124,4 +124,17 @@ novel-master -- 父工程
 
 ![书架](https://www.iotsoft.top/img/novel/xcx/%E4%B9%A6%E6%9E%B6.png)
 
+![img](https://www.iotsoft.top/img/novel/xcx/1.png)
+
+![img](https://www.iotsoft.top/img/novel/xcx/2.png)
+
 ![我的](https://www.iotsoft.top/img/novel/xcx/%E6%88%91%E7%9A%84.png)
+
+###PC网站
+![img](https://www.iotsoft.top/img/novel/PC/1.png)
+
+![img](https://www.iotsoft.top/img/novel/PC/2.png)
+
+![img](https://www.iotsoft.top/img/novel/PC/3.png)
+
+![img](https://www.iotsoft.top/img/novel/PC/4.png)
