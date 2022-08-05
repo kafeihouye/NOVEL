@@ -1,7 +1,7 @@
 
 #### 官网
 
-https://www.nsdciot.com
+https://www.nsdciot.com 
 
 ####后台来自
 https://github.com/201206030/novel-plus为实现uni-app小程序功能，在此源码的基础上进行重构了一些代码，来满足小程序
