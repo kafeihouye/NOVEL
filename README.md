@@ -106,22 +106,22 @@ novel-master -- 父工程
 
 ####小程序运行效果
 
-![登录](E:\java\code\NSDC\NOVEL\img\小程序\登录.png)
+![登录](https://www.iotsoft.top/img/novel/xcx/%E7%99%BB%E5%BD%95.png)
 
 
 
-![授权](E:\java\code\NSDC\NOVEL\img\小程序\授权.png)
+![授权](https://www.iotsoft.top/img/novel/xcx/%E6%8E%88%E6%9D%83.png)
 
-![首页](E:\java\code\NSDC\NOVEL\img\小程序\首页.png)
+![首页](https://www.iotsoft.top/img/novel/xcx/%E9%A6%96%E9%A1%B5.png)
 
-![分类](E:\java\code\NSDC\NOVEL\img\小程序\分类.png)
+![分类](https://www.iotsoft.top/img/novel/xcx/%E5%88%86%E7%B1%BB.png)
 
-![排行](E:\java\code\NSDC\NOVEL\img\小程序\排行.png)
+![排行](https://www.iotsoft.top/img/novel/xcx/%E6%8E%92%E8%A1%8C.png)
 
-![排行-女生](E:\java\code\NSDC\NOVEL\img\小程序\排行-女生.jpg)
+![排行-女生](https://www.iotsoft.top/img/novel/xcx/%E6%8E%92%E8%A1%8C-%E5%A5%B3%E7%94%9F.jpg)
 
 
 
-![书架](E:\java\code\NSDC\NOVEL\img\小程序\书架.png)
+![书架](https://www.iotsoft.top/img/novel/xcx/%E4%B9%A6%E6%9E%B6.png)
 
-![我的](E:\java\code\NSDC\NOVEL\img\小程序\我的.png)
+![我的](https://www.iotsoft.top/img/novel/xcx/%E6%88%91%E7%9A%84.png)
