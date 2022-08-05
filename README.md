@@ -138,3 +138,35 @@ novel-master -- 父工程
 ![img](https://www.iotsoft.top/img/novel/PC/3.png)
 
 ![img](https://www.iotsoft.top/img/novel/PC/4.png)
+
+
+技术文档
+-----------------------------------
+
+- 技术官网：  [https://www.nsdciot.com](https://www.nsdciot.com)
+
+- 开发文档：  [主项目文档](https://www.nsdciot.com) | [Vue3文档](https://www.nsdciot.com)
+
+- 新手指南： [快速入门](https://www.nsdciot.com)  |  [视频教程](https://www.nsdciot.com) |   [常见问题 ](https://www.nsdciot.com)  |   [技术支持](http://jeecg.com/doc/help) |  [1分钟体验低代码](https://my.oschina.net/jeecg/blog/3083313)
+
+
+- QQ交流群 ： ①92062645
+> ` 提醒：【QQ群是自助服务群，建议给帮助您解决问题的同学发送指定红包，表示感谢！】 `
+
+## 赞赏支持
+
+开源项目不易，若此项目能得到你的青睐，那么你可以赞赏支持作者持续开发与维护。
+
+- 服务器的费用也是一笔开销
+- 编写更完备的文档教程
+- 发布更多前端模版和爬虫规则
+- 一杯咖啡
+
+![img](https://www.iotsoft.top/img/novel/SF/wx.jpg)
+
+![img](https://www.iotsoft.top/img/novel/SF/zfb.jpg)
+
+## 免责声明
+
+本项目提供的爬虫工具仅用于采集项目初期的测试数据，请勿用于商业盈利。 用户使用本系统从事任何违法违规的事情，一切后果由用户自行承担，作者不承担任何责任。
+
