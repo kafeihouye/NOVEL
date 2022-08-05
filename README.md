@@ -104,3 +104,24 @@ novel-master -- 父工程
 
 5. 启动程序，打开浏览器，默认 8080 端口访问。
 
+####小程序运行效果
+
+![登录](E:\java\code\NSDC\NOVEL\img\小程序\登录.png)
+
+
+
+![授权](E:\java\code\NSDC\NOVEL\img\小程序\授权.png)
+
+![首页](E:\java\code\NSDC\NOVEL\img\小程序\首页.png)
+
+![分类](E:\java\code\NSDC\NOVEL\img\小程序\分类.png)
+
+![排行](E:\java\code\NSDC\NOVEL\img\小程序\排行.png)
+
+![排行-女生](E:\java\code\NSDC\NOVEL\img\小程序\排行-女生.jpg)
+
+
+
+![书架](E:\java\code\NSDC\NOVEL\img\小程序\书架.png)
+
+![我的](E:\java\code\NSDC\NOVEL\img\小程序\我的.png)
