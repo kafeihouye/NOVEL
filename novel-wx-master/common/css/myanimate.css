@@ -1,0 +1,27 @@
+/* 自定义css3动画 */
+@-webkit-keyframes my-animate {
+	from {
+		-webkit-transform: scale(1.3);
+		transform: scale(1.3);
+	}
+
+}
+
+@keyframes my-animate {
+	from {
+		-webkit-transform: scale(1.3);
+		transform: scale(1.3);
+	}
+}
+
+.my-animate {
+	-webkit-animation-name: my-animate;
+	animation-name: my-animate;
+}
+
+.animated {
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
