@@ -1,10 +1,13 @@
 
 #### 官网
 
-https://www.nsdciot.com 
+https://www.iotsoft.top 
 
-####后台来自
-https://github.com/201206030/novel-plus为实现uni-app小程序功能，在此源码的基础上进行重构了一些代码，来满足小程序
+####后台来自github原作者地址
+https://github.com/201206030/novel-plus    
+为实现uni-app小程序功能，在此源码的基础上进行重构了一些代码，来满足小程序
+####后台开发文档地址
+https://docs.xxyopen.com/course/novel/#%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4
 
 
 #### 项目介绍 
