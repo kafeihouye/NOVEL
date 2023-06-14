@@ -146,11 +146,11 @@ novel-master -- 父工程
 技术文档
 -----------------------------------
 
-- 技术官网：  [https://www.nsdciot.com](https://www.nsdciot.com)
+- 技术官网：  [https://www.iotsoft.top](https://www.iotsoft.top)
 
-- 开发文档：  [主项目文档](https://www.nsdciot.com) | [Vue3文档](https://www.nsdciot.com)
+- 开发文档：  [主项目文档](https://www.iotsoft.top) | [Vue3文档](https://www.iotsoft.top)
 
-- 新手指南： [快速入门](https://www.nsdciot.com)  |  [视频教程](https://www.nsdciot.com) |   [常见问题 ](https://www.nsdciot.com)  |   [技术支持](http://jeecg.com/doc/help) |  [1分钟体验低代码](https://my.oschina.net/jeecg/blog/3083313)
+- 新手指南： [快速入门](https://www.iotsoft.top)  |  [视频教程](https://www.iotsoft.top) |   [常见问题 ](https://www.iotsoft.top)  |   [技术支持](https://www.iotsoft.top) |  [1分钟体验低代码](https://my.oschina.net/jeecg/blog/3083313)
 
 
 - QQ交流群 ： ①92062645
